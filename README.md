@@ -24,7 +24,7 @@ This repo has a shell.nix to create a development environment for Android.
 - Now everytime you get into the folder the dependencies with be automatically downloaded (if needed) and load into the shell context
 
 ## How to validate the developlement environment is working:
-- Run the flutter doctor `flutter doctor` to check if all the dependencies are met
+- Run the flutter doctor to check if all the dependencies are met: `flutter doctor`
 
 ## Build a Flutter Android app:
 - `flutter build apk` (you may need to run `flutter clean`)
